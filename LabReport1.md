@@ -3,13 +3,13 @@ Welcome to my Lab Report for **week 1** of **CSE 15L**.
 
 In the first lab session, we focused on achieving three major tasks:-
 
-**1. Installing Visual Studio Code**  
-**2. Remotely Connecting to a computer located in the CSE Building at UCSD.**  
-**3. Carrying out commands on the remotely accessed computer.**
+**1. [Installing Visual Studio Code](#vscode)**  
+**2. [Remotely Connecting to a Computer](#remoteaccess)**  
+**3. [Running Some Commands (Remotely!)](#commands)**
 
 Let's see how to do these using a step by step tutorial!
 
-## Installing VSCode
+## Installing VSCode <a name="vscode"></a>
 
 The first step was to download an integrated development environment (**IDE**) using which we can try to remotely access the computer.
 **Visual Studio Code**, also known as **VSCode** is a popular IDE developed by Microsoft, which is used by millions of aspiring coders around the world. 
@@ -20,7 +20,7 @@ You can download VS Code using this [link](https://code.visualstudio.com/downloa
 Select the operating system on your device and follow the steps given by the installer to correctly download VSCode on your system. Upon opening VSCode, you should see a similar page:-
 <img width="1280" alt="image" src="https://user-images.githubusercontent.com/122563165/212525766-13beb60e-29a7-4af4-8264-83023c0484a0.png">
 
-## Remotely Connecting to a Computer
+## Remotely Connecting to a Computer<a name="remoteaccess"></a>
 
 This step is made possible using a tool called git. 
 >Git is installed by default on MacOS, but Windows users can download it [here](https://gitforwindows.org/).  
@@ -60,7 +60,7 @@ Now follow the steps listed below to access the computer :-
 * After typing in the correct password, you should be successfully connected to a computer in the basement of the CSE Building!
 <img width="257" alt="image" src="https://user-images.githubusercontent.com/122563165/212527590-6aeafcb5-1cf4-48c0-853e-97a7c782a7b0.png">
 
-## Running Some Commands (Remotely!)
+## Running Some Commands (Remotely!)<a name="commands"></a>
 
 Now that we are successfully logged into the computer, we can run some commands using ssh. Some commands to try out would be :- 
 * `cd ~`
