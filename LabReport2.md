@@ -218,7 +218,7 @@ Let us rerun the JUnit test to see if it is passing now
 
 We can now see that the original test is finally passing. Hence our code is now *Bug-Free*. 
 
-## The New Things We Learnt)<a name="newthings"></a>
+## The New Things We Learnt<a name="newthings"></a>
 
 At the end of this Lab Report 2, and week 3 of the Winter Quarter 2023, I have learned a lot of new things, some which I always used in my 
 day to day lives like accessing the remote server of Instagram or encountering the WebLogInService Failed on the UCSD Login page, but I never knew how these worked.
