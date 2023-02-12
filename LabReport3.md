@@ -1,5 +1,5 @@
 # Lab Report 3 - Kaustubh Paliwal
-Welcome to my Lab Report for **week 5** of **CSE 15L**.
+Welcome to my Lab Report for **Week 5** of **CSE 15L**.
 
 This week we will focus on the command `grep`. 
 The `grep` command in UNIX-like operating systems is a powerful utility for searching for patterns in text files. 
