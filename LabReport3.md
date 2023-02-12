@@ -141,8 +141,7 @@ Examples of `grep -n` being used are as follows :-
    ```
    As we can see, there are no lines in the output containing the sentence `is a directory` and lists out all instances of **Lakers** appearing the text files.
    
-   In week 4 and 5 we learned many new commands like `find`, `grep` and `less` using which we can manipulate and access data stored in text files. Using the Lab Report 3, we 
-   further increased out knowledge by practicing 8 new examples of different variations of `grep`. 
+   In Week 4 and 5 we learned many new commands like `find`, `grep` and `less` using which we can manipulate and access data stored in text files. Using the Lab Report    3, we further increased out knowledge by practicing 8 new examples of different variations of `grep`. 
    ---
 
   
