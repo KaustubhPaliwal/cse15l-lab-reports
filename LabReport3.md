@@ -117,7 +117,7 @@ Examples of `grep -n` being used are as follows :-
   ```
   As we can see `WhatToIndia.txt:26` indicates that the text file WhatToIndia contains the word **Juhu** at line 26.
   
- ## `grep -r` <a name="recursive"></a>
+## `grep -r` <a name="recursive"></a>
  
  Notice how so far in all the commands we have been using `*/*/*/*`. This is used to recursively enter each folder in the directory and look for the pattern in each file. For that to work, you need to know the total number of folders and subfolders
  which is not always possible. Also it causes the output to print `Is a directory` every time it enters a new directory. Therefore a good solution to this problem is the `grep -r` command. This allows
@@ -141,8 +141,8 @@ Examples of `grep -n` being used are as follows :-
    ```
    As we can see, there are no lines in the output containing the sentence `is a directory` and lists out all instances of **Lakers** appearing the text files.
    
-   In Week 4 and 5 we learned many new commands like `find`, `grep` and `less` using which we can manipulate and access data stored in text files. Using the Lab Report    3, we further increased out knowledge by practicing 8 new examples of different variations of `grep`. 
-   ---
+In Week 4 and 5 we learned many new commands like `find`, `grep` and `less` using which we can manipulate and access data stored in text files. Using the Lab Report    3, we further increased out knowledge by practicing 8 new examples of different variations of `grep`. 
+---
 
   
 
